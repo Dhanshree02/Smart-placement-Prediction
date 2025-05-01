@@ -1,6 +1,3 @@
-Got it! Here's your `README.md` content with **no emojis and no code blocks**:
-
----
 
 # Smart Placement Prediction
 
