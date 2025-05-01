@@ -70,6 +70,4 @@ The notebook provides:
 - Test advanced or ensemble models  
 - Deploy the model as a web application  
 
----
 
-Let me know if you want to include your name, project timeline, or GitHub link at the end.
